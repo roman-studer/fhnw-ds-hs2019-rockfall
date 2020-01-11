@@ -5,8 +5,6 @@
 #### Overview
 This project was developed by me and my team during the first semester (2019) of our Data Science Bachelor program and includes an R-notebook where the **probability calculations** and a **Monte-Carlo simulation** can be found. The same calculations and simulations were also documented in a Jupyter notebook (in Python). This notebook is written in German.
 
-#### About the Project
-The aim of the project was to investigate the probability of a fatal accident caused by a rock fall. For this purpose we received a data set with almost 3 months of data on events on a Swiss mountain road. If the probability of a serious accident with fatal consequences exceeds a previously defined limit, the road must be closed. In our case the simulated and calculated probability exceeded the limit value. The results were communicated to the public in the form of a website. 
 
 #### Getting started
 
@@ -20,6 +18,17 @@ Or clone the repo and then start the notebooks with the mentioned programs
 ```
 $ git clone https://github.com/roman-studer/fhnw-ds-hs2019-rockfall.git
 ```
+#### About the Project
+The aim of the project was to investigate the probability of a fatal accident caused by a rock fall. For this purpose we received a data set with almost 3 months of data on events on a Swiss mountain road. If the probability of a serious accident with fatal consequences exceeds a previously defined limit, the road must be closed. In our case the simulated and calculated probability exceeded the limit value. The results were communicated to the public in the form of a website. 
+
+During the project the following competences were applied:
+- Probability Calculations 
+- IT competence	
+- Programming	
+- Data visualization	
+- Information literacy	
+- Arguing and communicating	
+- Communicate digitally
 
 #### Screenshots
 The Website on which our results were 'published' is no longer available.
