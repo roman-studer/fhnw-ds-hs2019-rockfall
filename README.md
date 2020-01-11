@@ -1,4 +1,4 @@
-#vRockfall Challenge
+# Rockfall Challenge
 
 ## Hypothetical project to calculate the probability of a fatal accident caused by a rock fall
 
@@ -25,12 +25,16 @@ $ git clone https://github.com/roman-studer/fhnw-ds-hs2019-rockfall.git
 The Website on which our results were 'published' is no longer available.
 Please consider taking a look at the screenshots of our website.
 
+**Homepage**
 ![Homepage](Website/Screenshots/Studer_Roman_HS19C4_Website_Startseite.png "Homepage")
 
+**Information**
 ![Information](Website/Screenshots/Studer_Roman_HS19C4_Website_Information.png "Information")
 
+**Documentation**
 ![Documentation](Website/Screenshots/Studer_Roman_HS19C4_Website_Dokumentation.png "Documentation")
 
+**Contact and FAQ**
 ![Contact](Website/Screenshots/Studer_Roman_HS19C4_Website_Kontakt_und_FAQ.png "Contact")
 
 #### Authors
